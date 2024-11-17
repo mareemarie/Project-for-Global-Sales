@@ -2,8 +2,7 @@
 
 This project analyzes restaurant ratings to uncover insights about customer preferences, demographic trends, and market opportunities. The findings aim to help restaurant owners and investors make data-driven decisions.
 
-
-![Screenshot 2024-11-17 225913](https://github.com/user-attachments/assets/5d3a22d8-df2b-4e84-8090-efa8513db9ec)
+[Screenshot 2024-11-17 225913](https://github.com/user-attachments/assets/5d3a22d8-df2b-4e84-8090-efa8513db9ec)
 
 ---
 
